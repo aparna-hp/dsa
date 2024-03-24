@@ -92,7 +92,7 @@ public class SudukuSolver {
 
                     //move to the next cell
                     populate(board, row+ (col+1)/9, (col+1)%9);
-                    System.out.println("After setting board " + Arrays.deepToString(board));
+                    //System.out.println("After setting board " + Arrays.deepToString(board));
                     //unset
                     board[row][col] = '.';
                     rowValArr[i][row] = false;
