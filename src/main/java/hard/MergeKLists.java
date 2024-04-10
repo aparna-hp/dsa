@@ -1,8 +1,6 @@
 package hard;
 
-import medium.SwapNodesInLinkedList;
-
-import java.util.List;
+//https://leetcode.com/problems/merge-k-sorted-lists/
 
 public class MergeKLists {
     public static class ListNode {
@@ -37,6 +35,38 @@ public class MergeKLists {
         ListNode ans = mergeKLists.mergeKLists(lists);
         mergeKLists.printList(ans);
       }
+
+    public ListNode mergeKListUsingPQ(ListNode[] lists) {
+        if(null == lists || lists.length == 0 ){
+            return null;
+        }
+
+        if(lists.length == 1) {
+            return lists[0];
+        }
+
+        ListNode ans = new ListNode();
+        for(int i=0; i<lists.length;i++){
+
+        }
+        return ans;
+    }
+
+    public static class Triplet {
+        int val;
+        int lIndex;
+        int index;
+
+        public Triplet(int val, int lIndex, int index){
+            this.val = val;
+            this.lIndex = lIndex;
+            this.index = index;
+        }
+
+        public int getVal(){
+            return this.val;
+        }
+    }
 
         public ListNode mergeKLists(ListNode[] lists) {
             if(null == lists || lists.length == 0 ){

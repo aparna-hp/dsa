@@ -35,7 +35,7 @@ public class LongestSumArrayWithSumK {
                 max = Math.max(max, len);
             }
 
-            //Store only the first occurence
+            //Store only the first occurrence
             if(!map.containsKey(preSum)){
                 map.put(preSum, i);
             }
