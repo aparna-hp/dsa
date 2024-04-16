@@ -1,0 +1,75 @@
+https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/
+
+https://www.geeksforgeeks.org/fractional-knapsack-problem/
+
+matrix chain multiplication
+
+https://www.geeksforgeeks.org/coin-change-dp-7/
+
+https://leetcode.com/problems/regular-expression-matching/
+
+https://leetcode.com/problems/binary-tree-maximum-path-sum/
+
+DP medium , Binary search, Monotonic Stack(LSE, LLE,RSE,RLE), Merge sort (Divide & Conquer), kadane algo, MCM
+
+https://leetcode.com/problems/search-in-rotated-sorted-array/
+
+L 300 LIS
+
+L 24
+ L315, L2179, L23, L25, L239, L295, L2355, 4-> Median of 2 sorted list – Reverse Nodes in K group
+
+L134, L49, L340, L658, L159, L15, 277, 253, L2321, 27,31
+
+3 sum, N sum
+Right larger element, left larger element, right smaller element, left smaller element
+
+Painter partition,
+
+
+9413216760
+
+All DSA https://www.youtube.com/watch?v=EAR7De6Goz4&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz
+
+DP https://www.youtube.com/watch?v=FfXoiwwnxFw&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY
+
+https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
+
+https://takeuforward.org/interviews/must-do-questions-for-dbms-cn-os-interviews-sde-core-sheet/
+
+https://takeuforward.org/interviews/blind-75-leetcode-problems-detailed-video-solutions/
+
+https://www.hiredintech.com/algorithms/algorithm-design-canvas/task-constraints/
+
+https://www.bigocheatsheet.com/
+
+https://www.hiredintech.com/system-design/the-system-design-process/step1/
+
+https://www.youtube.com/watch?v=Dd-yJylrcOY&list=RDCMUCevUmOfLTUX9MNGJQKsPdIA&index=1
+
+2305, 10, 44
+
+https://www.geeksforgeeks.org/sum-minimum-maximum-elements-subarrays-size-k/
+
+https://www.geeksforgeeks.org/maximum-of-xor-of-first-and-second-maximum-of-all-subarrays/
+
+https://www.geeksforgeeks.org/introduction-to-monotonic-stack-data-structure-and-algorithm-tutorials/
+
+https://www.geeksforgeeks.org/minimum-increment-operations-to-make-array-unique/
+
+https://www.geeksforgeeks.org/subset-sum-problem-dp-25/
+
+bfs, dfs, monotonic, kadance, graph
+
+rotten orange
+
+
+
+235, 236, 239, 269, 354,
+
+https://lms.learnbay.co/myaccount/#/course/55206/classrecords?class_id=128036&end=1698776999&lesson=433299&section=160707&start=1651689000&subject=128036
+
+TLS/SSL  https://www.cloudflare.com/en-in/learning/ssl/why-is-http-not-secure/
+
+Cloudfare for CDN
+
