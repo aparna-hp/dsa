@@ -1,4 +1,4 @@
-package Easy;
+package outside;
 
 /*
     Given three sorted arrays A, B  and Cof not necessarily same sizes.

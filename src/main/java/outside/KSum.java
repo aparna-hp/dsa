@@ -1,4 +1,4 @@
-package Easy;
+package outside;
 
 import java.util.HashMap;
 import java.util.Map;

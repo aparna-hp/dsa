@@ -1,4 +1,4 @@
-package Easy;
+package outside;
 
 public class SortedMatrixSearch {
 
